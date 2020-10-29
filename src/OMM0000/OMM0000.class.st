@@ -103,6 +103,6 @@ OMM0000 >> style [
 { #category : #updating }
 OMM0000 >> updateRoot: anHtmlRoot [
 	anHtmlRoot
-		title: 'Omm 0000';
+		title: 'OMM 0000';
 		style: self style
 ]
