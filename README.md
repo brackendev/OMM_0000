@@ -23,7 +23,7 @@ Metacello new
 In a Playground, _Do It_:
 
 ```smalltalk
-WebBrowser openOn: 'http://127.0.0.1:8080/OMM%200000/'.
+WebBrowser openOn: 'http://127.0.0.1:8080/OMM0000/'.
 ```
 
 ## Acknowledgements
