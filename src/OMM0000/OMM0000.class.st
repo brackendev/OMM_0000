@@ -13,7 +13,7 @@ Class {
 
 { #category : #initialization }
 OMM0000 class >> initialize [
-	WAAdmin register: self asApplicationAt: 'OMM 0000'
+	WAAdmin register: self asApplicationAt: 'OMM0000'
 ]
 
 { #category : #utilities }
