@@ -1,6 +1,8 @@
 OMM 0000
 ========
 
+https://www.youtube.com/watch?v=U0YkPnwoYyE
+
 * [Pharo 8.0](https://www.pharo.org/) reference platform.
 
 ## Installation
