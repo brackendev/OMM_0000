@@ -18,7 +18,7 @@ BaselineOfOMM0000 >> baseline: spec [
 		project: 'RenoirSt-Deployment'
 			copyFrom: 'RenoirSt'
 			with: [ spec loads: 'Deployment-Seaside-Extensions' ].
-			 spec baseline: 'ELIZA' with: [ spec repository: 'github://brackendev/ELIZA-Smalltalk:v1.1.0/src' ].
+			 spec baseline: 'ELIZA' with: [ spec repository: 'github://brackendev/ELIZA-Smalltalk/src' ].
 			spec package: 'OMM0000']
 		
 ]
