@@ -11,7 +11,7 @@ In a Playground, _Do It_:
 
 ```smalltalk
 Metacello new 
-  repository: 'github://brackendev/OMM_0000:v1.0.0/src';
+  repository: 'github://brackendev/OMM_0000/src';
   baseline: 'OMM0000';
   load.
 ```
