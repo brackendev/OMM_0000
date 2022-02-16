@@ -3,7 +3,7 @@ OMM 0000
 
 https://www.youtube.com/watch?v=U0YkPnwoYyE
 
-* [Pharo 8.0](https://www.pharo.org/) reference platform.
+* [Pharo 9.0](https://www.pharo.org/) reference platform.
 
 ## Installation
 
@@ -13,9 +13,6 @@ In a Playground, _Do It_:
 Metacello new 
   repository: 'github://brackendev/OMM_0000:v1.0.0/src';
   baseline: 'OMM0000';
-  onConflict: [ :ex | ex useIncoming ];
-  onUpgrade: [ :ex | ex useIncoming ];
-  onDowngrade: [ :ex | ex useLoaded ];
   load.
 ```
 
