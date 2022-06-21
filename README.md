@@ -3,7 +3,7 @@ OMM 0000
 
 https://www.youtube.com/watch?v=U0YkPnwoYyE
 
-* [Pharo 9.0](https://www.pharo.org/) reference platform.
+* [Pharo 10](https://www.pharo.org/) reference platform.
 
 ## Installation
 
